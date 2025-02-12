@@ -1,0 +1,67 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 09 Feb 2025 20:36:02 at https://ptsridewibaruna.co.id/id/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ptsridewibaruna.co.id/id/ -O1 "C:\Users\ACER\Music\PT SRI DEWI BARUNA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:41:26	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=544
+20:41:26	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=544 to https://ptsridewibaruna.co.id/id/about-us/
+20:41:27	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=616
+20:41:27	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=616 to https://ptsridewibaruna.co.id/id/join-our-team/
+20:41:29	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=655
+20:41:29	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=655 to https://ptsridewibaruna.co.id/id/our-selection-process/
+20:41:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ptsridewibaruna.co.id/id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fptsridewibaruna.co.id%2Fid%2Four-selection-process%2F (from https://ptsridewibaruna.co.id/id/our-selection-process/)
+20:41:29	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=669
+20:41:29	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=669 to https://ptsridewibaruna.co.id/id/gallery/
+20:42:32	Error: 	"Not Found" (404) at link https://ptsridewibaruna.co.id/wp-content/uploads/2023/03/asian-college-student-on-campus-Medium.png (from https://ptsridewibaruna.co.id/id/blog/)
+20:43:48	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=697
+20:43:48	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=697 to https://ptsridewibaruna.co.id/id/contact-us/
+20:43:48	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/the-dawn-of-desert-cruising-the-rise-of-cruise-tourism-in-saudi-arabia/the-dawn-of-desert-cruising-the-rise-of-cruise-tourism-in-saudi-arabia/
+20:43:48	Warning: 	Warning moved treated for https://ptsridewibaruna.co.id/id/the-dawn-of-desert-cruising-the-rise-of-cruise-tourism-in-saudi-arabia/the-dawn-of-desert-cruising-the-rise-of-cruise-tourism-in-saudi-arabia/ (real one is https://ptsridewibaruna.co.id/wp-content/uploads/2023/08/The-Dawn-of-Desert-Cruising-The-Rise-of-Cruise-Tourism-in-Saudi-Arabia.jpg)
+20:43:48	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3125
+20:43:48	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3125 to https://ptsridewibaruna.co.id/id/the-dawn-of-desert-cruising-the-rise-of-cruise-tourism-in-saudi-arabia/
+20:43:48	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3121
+20:43:48	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3121 to https://ptsridewibaruna.co.id/id/embracing-the-waves-together/
+20:43:48	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3117
+20:43:48	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3117 to https://ptsridewibaruna.co.id/id/the-impact-of-indonesian-cuisine-on-the-cruise-line-industry/
+20:43:48	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=715
+20:43:48	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=715 to https://ptsridewibaruna.co.id/id/privacy-policy/
+20:43:48	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=733
+20:43:48	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=733 to https://ptsridewibaruna.co.id/id/terms-conditions/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=1742
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=1742 to https://ptsridewibaruna.co.id/id/organizational-chart/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3807
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3807 to https://ptsridewibaruna.co.id/id/gallery/indonesia-award-magzine-2024/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3692
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3692 to https://ptsridewibaruna.co.id/id/gallery/indonesia-best-of-award-2020/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3698
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3698 to https://ptsridewibaruna.co.id/id/gallery/indonesian-business-professional-education-award-2020/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3704
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3704 to https://ptsridewibaruna.co.id/id/gallery/indonesian-business-professional-education-award-2019/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3344
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3344 to https://ptsridewibaruna.co.id/id/gallery/crew-departure-23/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3592
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3592 to https://ptsridewibaruna.co.id/id/gallery/crew-departure-2024/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/the-journey-of-a-chef-from-culinary-school-to-cruise-ship/the-journey-of-a-chef-from-culinary-school-to-cruise-ship/
+20:43:49	Warning: 	Warning moved treated for https://ptsridewibaruna.co.id/id/the-journey-of-a-chef-from-culinary-school-to-cruise-ship/the-journey-of-a-chef-from-culinary-school-to-cruise-ship/ (real one is https://ptsridewibaruna.co.id/wp-content/uploads/2023/07/The-Journey-of-a-Chef-From-Culinary-School-to-Cruise-Ship-scaled.jpeg)
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3113
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3113 to https://ptsridewibaruna.co.id/id/the-journey-of-a-chef-from-culinary-school-to-cruise-ship/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3109
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3109 to https://ptsridewibaruna.co.id/id/know-your-rights-upholding-the-maritime-labour-convention-2006-at-pt-sri-dewi-baruna/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3106
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3106 to https://ptsridewibaruna.co.id/id/pt-sri-dewi-baruna-no-agency-fees-and-upholding-mlc-2006-standards-in-maritime-recruitment/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/life-at-sea-a-day-in-the-life-of-a-cruise-ship-professional/life-at-sea-a-day-in-the-life-of-a-cruise-ship-professional/
+20:43:49	Warning: 	Warning moved treated for https://ptsridewibaruna.co.id/id/life-at-sea-a-day-in-the-life-of-a-cruise-ship-professional/life-at-sea-a-day-in-the-life-of-a-cruise-ship-professional/ (real one is https://ptsridewibaruna.co.id/wp-content/uploads/2023/05/Life-at-Sea-A-Day-in-the-Life-of-a-Cruise-Ship-Professional.jpg)
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3101
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3101 to https://ptsridewibaruna.co.id/id/life-at-sea-a-day-in-the-life-of-a-cruise-ship-professional/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=3098
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=3098 to https://ptsridewibaruna.co.id/id/discover-the-world-aboard-a-cruise-ship-exciting-career-opportunities-await/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=1368
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=1368 to https://ptsridewibaruna.co.id/id/the-cruise-line-industry-after-covid/
+20:43:49	Warning: 	Moved Permanently for https://ptsridewibaruna.co.id/id/?p=1365
+20:43:49	Warning: 	File has moved from https://ptsridewibaruna.co.id/id/?p=1365 to https://ptsridewibaruna.co.id/id/navigating-the-seas-of-the-cruise-line-industry/
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 47 seconds : 450 links scanned, 420 files written (45224441 bytes overall) [36158721 bytes received at 77427 bytes/sec], 13036517 bytes transferred using HTTP compression in 256 files, ratio 28%, 4.4 requests per connection
+(1 errors, 55 warnings, 0 messages)
